@@ -1,0 +1,1 @@
+Implementation of a repository of documents with summarizer for a quick peek into the contents and an option for a chatbot to talk to about the document using few AWS services and Python mainly.
